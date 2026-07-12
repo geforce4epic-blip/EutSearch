@@ -1,6 +1,6 @@
 # EutSearch
 Welcome to EUT search, this is a tool for Everything Upgrade Tree to search thru every single upgrade/boost in the game! (Made in scratch)
-Currently, it only has every bit, prestige, point costing, point-x, red black hole, transcend upgrade. Will be updated tommorow or late today!
+Currently, it only has every bit, prestige, point costing, point-x, red black hole, transcend upgrade (not including sacrifice). Will be updated to rainbow blackhole tommorow or late today!
 
 
 CONTROLS
