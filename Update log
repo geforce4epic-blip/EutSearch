@@ -9,3 +9,4 @@ Finished blackhole upgrades and fixed ClearyQuery's ui not having valid vfx and 
 
 v1.2 (Unreleased coming 7/15/2026)
 Finished qubits, mining + masteries, AXP + ELVL and sacrifice. Adding Reverse Searching (searching for a upgrade instead of a query), to reverse search press the toggle button.
+Added a background
